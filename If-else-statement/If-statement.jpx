@@ -1,0 +1,5 @@
+score = 90;
+
+if score >= 80 {
+    Print "Excellent score";
+}
