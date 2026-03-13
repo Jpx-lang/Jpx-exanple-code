@@ -1,0 +1,5 @@
+fruits = ["apple", "banana", "orange"];
+
+for f in fruits {
+    Print f;
+}
