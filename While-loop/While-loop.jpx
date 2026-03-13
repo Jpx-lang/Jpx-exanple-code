@@ -1,0 +1,13 @@
+// create a variable and set the starting value
+i = 1;
+
+// loop will run while the condition is true
+while i <= 5 {
+
+    // print the current value of i
+    Print i;
+
+    // increase the value of i by 1
+    i = i + 1;
+
+}
