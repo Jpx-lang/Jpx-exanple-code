@@ -1,1 +1,8 @@
 
+age = 18;
+
+if age >= 18 {
+    Print "You are an adult";
+} else {
+    Print "You are underage";
+}
