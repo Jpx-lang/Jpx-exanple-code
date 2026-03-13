@@ -1,0 +1,11 @@
+score = 70;
+
+if score >= 90 {
+    Print "Grade A";
+} else if score >= 75 {
+    Print "Grade B";
+} else if score >= 60 {
+    Print "Grade C";
+} else {
+    Print "Grade D";
+}
