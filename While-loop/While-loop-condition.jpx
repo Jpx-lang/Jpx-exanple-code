@@ -1,0 +1,13 @@
+// start counter
+count = 0;
+
+// loop until count reaches 3
+while count < 3 {
+
+    // show message
+    Print "Loop running";
+
+    // increase counter
+    count = count + 1;
+
+}
